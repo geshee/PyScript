@@ -2,10 +2,10 @@
 <html>
 <head>
 
+<title>pyscript_test</title>
+
 <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
 <script defer src="https://pyscript.net/latest/pyscript.js"></script>
-
-<title>pyscript_test</title>
 
 </head>
 <body>
